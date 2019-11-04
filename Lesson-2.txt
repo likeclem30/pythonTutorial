@@ -1,0 +1,17 @@
+Learn Python---By William Aaron
+
+Before we begin
+1-Install Anaconda Python on you System
+https://docs.anaconda.com/anaconda/install/windows/
+
+2-Test installation
+  i-goto your terminal or command prompt
+  type python3
+
+  ii. type ipython
+
+3-Test Jupyter Notebook
+
+4-vscode 
+Microsoft visual studio code
+https://code.visualstudio.com/
